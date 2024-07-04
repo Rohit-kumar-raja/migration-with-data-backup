@@ -1,0 +1,15 @@
+{
+    "name": "rohit-kumar-raja/migration-with-data-backup",
+    "autoload": {
+        "psr-4": {
+            "RohitKumarRaja\\MigrationWithDataBackup\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rohit kumar",
+            "email": "rohitk.techexactly@gmail.com"
+        }
+    ],
+    "require": {}
+}
