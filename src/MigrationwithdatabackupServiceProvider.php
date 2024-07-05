@@ -1,6 +1,6 @@
 <?php
 
-namespace Rohit\HelloPackage;
+namespace Rohitkumarraja\Migrationwithdatabackup;
 
 use Illuminate\Support\ServiceProvider;
 
