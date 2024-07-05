@@ -25,7 +25,7 @@ class MigrationwithdatabackupServiceProvider extends ServiceProvider
     {
         if ($this->app->runningInConsole()) {
             $this->commands([
-                \Rohit\Migration\Command\MigrationWithBackupData::class,
+                \Rohitkumarraja\Migrationwithdatabackup\Command\MigrationWtihBackupData::class,
             ]);
         }
     }
