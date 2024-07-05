@@ -1,6 +1,6 @@
 <?php
 
-namespace MigrationWithDataBackup\command;
+namespace Rohitkumarraja\Migrationwithdatabackup\Command;
 
 use Illuminate\Console\Command;
 use Illuminate\Database\QueryException;

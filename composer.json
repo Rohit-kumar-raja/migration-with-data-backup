@@ -1,8 +1,8 @@
 {
-    "name": "rohit-kumar-raja/migration-with-data-backup",
+    "name": "rohitkumarraja/migrationwithdatabackup",
     "autoload": {
         "psr-4": {
-            "RohitKumarRaja\\MigrationWithDataBackup\\": "src/"
+            "Rohitkumarraja\\Migrationwithdatabackup\\": "src/"
         }
     },
     "authors": [
@@ -11,5 +11,12 @@
             "email": "rohitk.techexactly@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Rohitkumarraja\\Migrationwithdatabackup\\MigrationwithdatabackupServiceProvider"
+            ]
+        }
+    }
 }
