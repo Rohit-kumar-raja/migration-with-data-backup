@@ -9,12 +9,12 @@ class ComposerStaticInit0ba1983e85f8dd201506567b91c83737
     public static $prefixLengthsPsr4 = array (
         'R' => 
         array (
-            'RohitKumarRaja\\MigrationWithDataBackup\\' => 39,
+            'Rohitkumarraja\\Migrationwithdatabackup\\' => 39,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'RohitKumarRaja\\MigrationWithDataBackup\\' => 
+        'Rohitkumarraja\\Migrationwithdatabackup\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

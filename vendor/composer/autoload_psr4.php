@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'RohitKumarRaja\\MigrationWithDataBackup\\' => array($baseDir . '/src'),
+    'Rohitkumarraja\\Migrationwithdatabackup\\' => array($baseDir . '/src'),
 );
